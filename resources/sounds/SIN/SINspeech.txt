@@ -1,0 +1,7 @@
+Soundfile:	Sound:		From:
+SINspeech1	dad		vnsspeech16
+SINspeech2	silence		vnsspeech2
+SINspeech3	bad		vnsspeech6
+SINspeech4	gad		vnsspeech4
+SINspeech5	tad		vnsspeech17
+SINspeech6	sad		plus9newspeech9

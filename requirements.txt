@@ -1,0 +1,14 @@
+autobahn~=20.6.1
+twisted~=20.3.0
+matplotlib~=3.2.2
+opencv-python~=4.2.0.34
+Pillow~=7.1.2
+google-api-python-client
+TDTPy
+pandas
+blinker
+numpy
+scipy
+psychopy
+scikit-learn
+pyfirmata

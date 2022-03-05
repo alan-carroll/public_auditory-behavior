@@ -1,0 +1,11 @@
+.idea/
+venv/
+__pycache__/
+scratch/
+src/scratch/
+data/
+resources/tasks/*
+resources/credentials/*
+!resources/credentials/readme.md
+resources/crossbar/*
+!resources/crossbar/readme.md
